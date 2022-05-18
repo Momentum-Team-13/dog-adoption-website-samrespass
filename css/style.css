@@ -1,0 +1,20 @@
+/* Global Styling */
+body {background-color:#F2F2F2}
+h2 {font-family: oswald;margin:0;}
+h3 {color:#ffffff;position:absolute;top:45%;margin:0;width: 100%;font-size:30px;font-family:oswald;font-weight: 300;}
+div.wrap {max-width:1200px;margin:auto;font-family: open sans, oswald;background-color:#FFFFFF;}
+/* Dog Gallery Styling */
+div.tags {display:flex;flex-wrap: wrap;width:100%;}
+div.singleTag {background-color:#89DEEF;margin: .2em .2em;border-radius:20px;padding:.2em 1em;font-size:12px;}
+div.ourDogs {display:flex;flex-wrap:wrap;}
+div.singleDog {max-width: 360px;}
+img.dog {max-width:100%;max-height: 185px;overflow-y: hidden;}
+/* Footer Styling */
+div.leftBox {background-image:url('/Users/sam/dog-adoption-website-samrespass/starter_files/images/donate.jpg');width:33%;text-align: center;}
+div.centerBox {background-image:url('/Users/sam/dog-adoption-website-samrespass/starter_files/images/volunteer.jpg');width:33%;text-align: center;}
+div.rightBox {background-image:url('/Users/sam/dog-adoption-website-samrespass/starter_files/images/location.png');width:34%;text-align: center;}
+div.boxText {position:relative;background-color:rgba(166,169,240,0.8);height:100%;}
+/* ID Styling (Why'd I separate these?) */
+#adoptDogs {padding: 0em 3em;}
+#footer {display:flex;height:275px;}
+#header {background-color:#004175;border-bottom: 3px solid #89DEEF;padding:.5em 0em .5em 3em;color:#ffffff;}
