@@ -11,7 +11,7 @@ div.ourDogs {display:flex;flex-wrap:wrap;}
 div.singleDog {max-width: 360px;}
 img.dog {max-width:100%;max-height: 185px;overflow-y: hidden;}
 /* Footer Styling */
-div.box {flex:1 1 auto;text-align: center;display:flex;}
+div.box {flex:1;text-align: center;display:flex;}
 div.leftBox {background-image:url('/Users/sam/dog-adoption-website-samrespass/starter_files/images/donate.jpg');background-size:cover;background-position:center;}
 div.centerBox {background-image:url('/Users/sam/dog-adoption-website-samrespass/starter_files/images/volunteer.jpg');}
 div.rightBox {background-image:url('/Users/sam/dog-adoption-website-samrespass/starter_files/images/location.png');}
